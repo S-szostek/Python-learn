@@ -1,1 +1,1 @@
-#Tu bedzie appka we flasku B)
+print("Hello World")
